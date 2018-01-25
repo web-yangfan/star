@@ -31,7 +31,7 @@
 
 ### 音频处理
 * [它将包含多个音频文件并将它们合并到一个文件中。 两部分之间将会产生无声的差距，使得每一个新的部分从全部开始，每个部分之间至少有1秒的停顿。 最后的文件将被导出为mp3，ogg，ac3，m4a和caf（IMA-ADPCM）以支持尽可能多的设备](https://github.com/tonistiigi/audiosprite)
-* [html5-video] (https://github.com/eisneim/react-html5-video)	
+* [html5-video](https://github.com/eisneim/react-html5-video)	
 
 
 ### js工具库
