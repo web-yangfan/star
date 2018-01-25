@@ -49,7 +49,7 @@
 ### 编码规范
 * [JavaScript工程项目的一系列最佳实践策略](https://github.com/wearehive/project-guidelines/blob/master/README-zh.md)
 * [JavaScript 代码规范，自带 linter & 代码自动修正](https://github.com/standard/standard/blob/master/docs/README-zhcn.md)
-* [阮一峰](https://github.com/ruanyf)
+
 
 ### 服务方面
 * [Nginx: echo-nginx-module](https://github.com/openresty/echo-nginx-module)
@@ -61,5 +61,6 @@
 
 ### 学习
 * [webpack2](https://github.com/ParryQiu/DevOpenClub-Tech-Webpack2)
+* [阮一峰](https://github.com/ruanyf)
 
 
