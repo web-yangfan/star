@@ -6,6 +6,7 @@
 	* [vue文件上传组件](https://github.com/lian-yue/vue-upload-component)
 	* [vue分页组件](https://github.com/lokyoung/vuejs-paginate)
 	* [vue表单验证组件](https://github.com/probil/v-mask)
+	* [vue-notifications 显示应用的通知信息](https://github.com/se-panfilov/vue-notifications)
 	 
 * 脚手架
 	* [vue移动端轻量级库](https://github.com/lin-xin/vue-toast/blob/master/README_zh.md)
