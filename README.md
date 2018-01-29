@@ -61,6 +61,7 @@
 
 
 ### 学习
+* [parcel类似webpack的打包库](https://github.com/parcel-bundler/parcel)
 * [webpack2](https://github.com/ParryQiu/DevOpenClub-Tech-Webpack2)
 * [阮一峰](https://github.com/ruanyf)
 
