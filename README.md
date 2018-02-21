@@ -22,7 +22,7 @@
 
 ### react
 * 组件
-        * [React-Grid-Layout 拖拽组件](https://www.npmjs.com/package/react-grid-layout-fix-compact)
+	* [React-Grid-Layout 拖拽组件](https://www.npmjs.com/package/react-grid-layout-fix-compact)
 	* [React-DnD 帮你构建复杂的拖拽接口](https://github.com/react-dnd/react-dnd)
 ### css
 * [css flex库](https://github.com/lzxb/flex.css)
