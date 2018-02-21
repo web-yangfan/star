@@ -7,7 +7,8 @@
 	* [vue分页组件](https://github.com/lokyoung/vuejs-paginate)
 	* [vue表单验证组件](https://github.com/probil/v-mask)
 	* [vue-notifications 显示应用的通知信息](https://github.com/se-panfilov/vue-notifications)
-	 
+	* [vue的可拖拽的瀑布流布局组件](https://github.com/jbaysolutions/vue-grid-layout)
+	
 * 脚手架
 	* [vue移动端轻量级库](https://github.com/lin-xin/vue-toast/blob/master/README_zh.md)
 	* [vue多页面应用](https://github.com/breezefeng/vue-cli-multipage)
@@ -19,7 +20,10 @@
 	* [vuejs2-learn案例DOME](https://github.com/bhnddowinf/vuejs2-learn)
 	* [node.js+Vue.js+webpack案例](https://github.com/yjj5855/node-vue-server-webpack)
 
-
+### react
+* 组件
+        * [React-Grid-Layout 拖拽组件](https://www.npmjs.com/package/react-grid-layout-fix-compact)
+	* [React-DnD 帮你构建复杂的拖拽接口](https://github.com/react-dnd/react-dnd)
 ### css
 * [css flex库](https://github.com/lzxb/flex.css)
 * [CSS组件库，基于腾讯手Q样式规范，腾讯QXD出品](https://github.com/frozenui/frozenui)
