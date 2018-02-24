@@ -66,6 +66,7 @@
 * [chalk node输出带颜色的字](https://github.com/chalk/chalk)
 * [ora node在终端显示 Loading效果](https://github.com/sindresorhus/ora)
 * [node-semver 版本检测工具](https://github.com/npm/node-semver)
+* [mkdirp 在node使用mkdir命令](https://github.com/substack/node-mkdirp)
 
 
 ### 学习
