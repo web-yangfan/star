@@ -65,6 +65,7 @@
 * [shelljs 通过node执行shell命令](https://github.com/shelljs/shelljs)
 * [chalk node输出带颜色的字](https://github.com/chalk/chalk)
 * [ora node在终端显示 Loading效果](https://github.com/sindresorhus/ora)
+* [node-semver 版本检测工具](https://github.com/npm/node-semver)
 
 
 ### 学习
