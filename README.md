@@ -62,6 +62,7 @@
 * [node-http-proxy  node.js做转发库 ](https://github.com/nodejitsu/node-http-proxy)
 * [node代理 http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware)
 * [oh-my-zsh 终端命名模板](https://github.com/robbyrussell/oh-my-zsh)
+* [shelljs 通过node执行shell命令](https://github.com/shelljs/shelljs)
 
 
 ### 学习
