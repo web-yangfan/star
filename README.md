@@ -64,6 +64,7 @@
 * [oh-my-zsh 终端命名模板](https://github.com/robbyrussell/oh-my-zsh)
 * [shelljs 通过node执行shell命令](https://github.com/shelljs/shelljs)
 * [chalk node输出带颜色的字](https://github.com/chalk/chalk)
+* [ora node在终端显示 Loading效果](https://github.com/sindresorhus/ora)
 
 
 ### 学习
