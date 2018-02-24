@@ -63,6 +63,7 @@
 * [node代理 http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware)
 * [oh-my-zsh 终端命名模板](https://github.com/robbyrussell/oh-my-zsh)
 * [shelljs 通过node执行shell命令](https://github.com/shelljs/shelljs)
+* [chalk node输出带颜色的字](https://github.com/chalk/chalk)
 
 
 ### 学习
