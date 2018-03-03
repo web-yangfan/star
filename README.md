@@ -61,7 +61,7 @@
 * [Nginx: echo-nginx-module](https://github.com/openresty/echo-nginx-module)
 * [whistle  web调试代理工具](https://github.com/avwo/whistle)
 * [node-http-proxy  node.js做转发库 ](https://github.com/nodejitsu/node-http-proxy)
-* [node代理 http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware)
+* [node代理 http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware)*
 * [oh-my-zsh 终端命名模板](https://github.com/robbyrussell/oh-my-zsh)
 * [shelljs 通过node执行shell命令](https://github.com/shelljs/shelljs)
 * [chalk node输出带颜色的字](https://github.com/chalk/chalk)
@@ -69,6 +69,7 @@
 * [node-semver 版本检测工具](https://github.com/npm/node-semver)
 * [mkdirp 在node使用mkdir命令](https://github.com/substack/node-mkdirp)
 * [webpack-dashboard webpack命令行工](https://yaowenjie.github.io/front-end/using-webpack-dashboard)
+* [Node.js 调试指南](https://github.com/nswbmw/node-in-debugging)
 
 
 ### 学习
