@@ -49,7 +49,7 @@
 * [console.log输出特殊字符插件](https://github.com/patorjk/figlet.js)
 * [pdf.js](https://github.com/mozilla/pdf.js)
 * [AlloyFinger 手势库](https://github.com/AlloyTeam/AlloyFinger)
-* [to-markdown HTML转markdown](https://www.npmjs.com/package/)
+* [to-markdown HTML转markdown](https://www.npmjs.com/package/to-markdown)
 
 
 ### 编码规范
