@@ -50,7 +50,7 @@
 * [pdf.js](https://github.com/mozilla/pdf.js)
 * [AlloyFinger 手势库](https://github.com/AlloyTeam/AlloyFinger)
 * [to-markdown HTML转markdown](https://www.npmjs.com/package/to-markdown)
-
+* [jquery 分页](https://github.com/esimakin/twbs-pagination)
 
 ### 编码规范
 * [JavaScript工程项目的一系列最佳实践策略](https://github.com/wearehive/project-guidelines/blob/master/README-zh.md)
