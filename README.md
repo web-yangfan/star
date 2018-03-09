@@ -71,6 +71,9 @@
 * [webpack-dashboard webpack命令行工](https://yaowenjie.github.io/front-end/using-webpack-dashboard)
 * [Node.js 调试指南](https://github.com/nswbmw/node-in-debugging)
 
+### 工具
+* [easy-mock 测试数据](https://easy-mock.com/login)
+* [调试工具 whistle](https://avwo.github.io/whistle/)
 
 ### 学习
 * [parcel类似webpack的打包库](https://github.com/parcel-bundler/parcel)
