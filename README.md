@@ -74,6 +74,7 @@
 ### 工具
 * [easy-mock 测试数据](https://easy-mock.com/login)
 * [调试工具 whistle](https://avwo.github.io/whistle/)
+* [命令行的leetcode工具](https://github.com/skygragon/leetcode-cli)
 
 ### 学习
 * [parcel类似webpack的打包库](https://github.com/parcel-bundler/parcel)
