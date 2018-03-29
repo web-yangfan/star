@@ -74,6 +74,8 @@
 ### 工具
 * [easy-mock 测试数据](https://easy-mock.com/login)
 * [调试工具 whistle](https://avwo.github.io/whistle/)
+* [刷题-scriptoj](https://scriptoj.com/)
+* [刷题-leetcode](https://leetcode.com/problemset/all/)
 * [命令行的leetcode工具](https://github.com/skygragon/leetcode-cli)
 
 ### 学习
@@ -81,4 +83,5 @@
 * [webpack2](https://github.com/ParryQiu/DevOpenClub-Tech-Webpack2)
 * [阮一峰](https://github.com/ruanyf)
 * [webpack笔记](https://web-yangfan.github.io/my-webpack/)
+* [狼叔：如何正确的学习Node.js](https://i5ting.github.io/How-to-learn-node-correctly/#1)
 
