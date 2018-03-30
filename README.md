@@ -77,6 +77,7 @@
 * [刷题-scriptoj](https://scriptoj.com/)
 * [刷题-leetcode](https://leetcode.com/problemset/all/)
 * [命令行的leetcode工具](https://github.com/skygragon/leetcode-cli)
+* [youtube视频下载工具](https://github.com/rg3/youtube-dl)
 
 ### 学习
 * [parcel类似webpack的打包库](https://github.com/parcel-bundler/parcel)
