@@ -80,6 +80,7 @@
 * [刷题-leetcode](https://leetcode.com/problemset/all/)
 * [命令行的leetcode工具](https://github.com/skygragon/leetcode-cli)
 * [youtube视频下载工具](https://github.com/rg3/youtube-dl)
+* [百度下线工具](https://mogeko.github.io/2018/02/07/BaiduPCS-Go-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%B7%A5%E5%85%B7%EF%BC%88%E5%9F%BA%E4%BA%8E-Go%EF%BC%89/#%E8%87%AA%E5%AE%9A%E4%B9%89%E5%82%A8%E5%AD%98%E7%9B%AE%E5%BD%95)
 
 ### 学习
 * [parcel类似webpack的打包库](https://github.com/parcel-bundler/parcel)
