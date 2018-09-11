@@ -53,6 +53,7 @@
 * [jquery 分页](https://github.com/esimakin/twbs-pagination)
 * [dayjs 时间库，dayjs和momentjsa api一样](https://github.com/xx45/dayjs/blob/master/ReadMe.zh-CN.md)
 * [momentjs 时间库](http://momentjs.cn/)
+* [图片裁剪插件](https://github.com/xyxiao001/vue-cropper)
 
 ### 编码规范
 * [JavaScript工程项目的一系列最佳实践策略](https://github.com/wearehive/project-guidelines/blob/master/README-zh.md)
