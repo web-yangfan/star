@@ -40,6 +40,7 @@
 
 
 ### js工具库
+* [花波浪效果](https://github.com/peacepostman/wavify)
 * [Underscore.js是一款JavaScript实用工具库](https://github.com/jashkenas/underscore)
 * [Velocity.js动画库](https://github.com/julianshapiro/velocity)
 * [js-cookie](https://github.com/js-cookie/js-cookie)
