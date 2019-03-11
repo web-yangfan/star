@@ -24,6 +24,7 @@
 * 组件
 	* [React-Grid-Layout 拖拽组件](https://www.npmjs.com/package/react-grid-layout-fix-compact)
 	* [React-DnD 帮你构建复杂的拖拽接口](https://github.com/react-dnd/react-dnd)
+	* [React 移动端轮播图](https://github.com/akiran/react-slick)
 ### css
 * [css flex库](https://github.com/lzxb/flex.css)
 * [CSS组件库，基于腾讯手Q样式规范，腾讯QXD出品](https://github.com/frozenui/frozenui)
