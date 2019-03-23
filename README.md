@@ -8,6 +8,7 @@
 	* [vue表单验证组件](https://github.com/probil/v-mask)
 	* [vue-notifications 显示应用的通知信息](https://github.com/se-panfilov/vue-notifications)
 	* [vue的可拖拽的瀑布流布局组件](https://github.com/jbaysolutions/vue-grid-layout)
+	* [vue拖拽组件](https://github.com/SortableJS/Vue.Draggable)
 	
 * 脚手架
 	* [vue移动端轻量级库](https://github.com/lin-xin/vue-toast/blob/master/README_zh.md)
