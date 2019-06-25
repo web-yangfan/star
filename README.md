@@ -78,6 +78,7 @@
 * [Node.js 调试指南](https://github.com/nswbmw/node-in-debugging)
 
 ### 工具
+* [npm源管理](https://github.com/Pana/nrm)
 * [easy-mock 测试数据](https://easy-mock.com/login)
 * [调试工具 whistle](https://avwo.github.io/whistle/)
 * [刷题-scriptoj](https://scriptoj.com/)
